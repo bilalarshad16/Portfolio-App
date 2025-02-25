@@ -12,12 +12,13 @@ const Home = () => {
       <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-6xl font-bold text-white">
-            Hello guys! I'm a Frontend Web Developer
+            Hello guys! I'm a Frontend Web and Mobile Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 6-12 month experience of building and desgining interactive and eye appelaing web applications.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+            I have 6-12 month experience of building and desgining interactive
+            and eye appelaing web applications. Currently, I love to work on web
+            application using technologies like React, Tailwind, Next JS and
+            GraphQL.
           </p>
           <div>
             <Link
