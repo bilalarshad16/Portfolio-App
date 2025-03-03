@@ -17,8 +17,8 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I have 6-12 month experience of building and desgining interactive
             and eye appelaing web applications. Currently, I love to work on web
-            application using technologies like React, Tailwind, Next JS and
-            GraphQL.
+            and mobile application using technologies like React, Tailwind, Next
+            JS, and Flutter.
           </p>
           <div>
             <Link
