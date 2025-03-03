@@ -44,27 +44,27 @@ const Experience = () => {
     },
     {
       id: 6,
+      src: flutter,
+      title: "Flutter",
+      style: "shadow-blue-300",
+    },
+    {
+      id: 7,
       src: tailwind,
       title: "Tailwind",
       style: "shadow-sky-400",
     },
     {
-      id: 7,
+      id: 8,
       src: graphql,
       title: "GraphQL",
       style: "shadow-pink-400",
     },
     {
-      id: 8,
+      id: 9,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
-    },
-    {
-      id: 9,
-      src: flutter,
-      title: "Flutter",
-      style: "shadow-blue-400",
     },
   ];
 
